@@ -35,3 +35,12 @@ section#celular {
     background: url('../imagens/01.png') no-repeat;
 }
 
+iframe#tela {
+    position: relative;
+    top: 108px;
+    left: 95px;
+    width: 176px;
+    height: 353px;
+    border-radius: 10px;
+}
+
